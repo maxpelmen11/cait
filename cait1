@@ -1,35 +1,27 @@
-body {
-    border: dashed rgb(0, 255, 191);
-    font-family: Times New Romance,  sans-serif; /* Семейство шрифтов */
-    font-size: 20px; /* Размер основного шрифта в <p></p>  */
-    background-color: #4ca0af; /* Цвет фона веб-страницы */
-    color: #333333; /* Цвет основного текста */ 
-}
-@keyframes color-change {
-    0% {
-      color: rgb(0, 255, 64);
-    }
-  
-    50% {
-      color: rgb(208, 255, 0);
-    }
-  
-    100% {
-      color: rgb(0, 255, 242);
-    }
-}
-h1 {
-    border: dashed rgb(123, 255, 0);
-    color: #4169E1; /* Цвет заголовка */
-    font-size: 22px; /* Размер шрифта в пунктах */
-    font-family: Georgia, serif; /* Семейство шрифтов */
-    animation: color-change 3s infinite;
-}
-h2:hover {
-    border: dashed rgb(9, 255, 0);
-    font-family: Inter;
-    color: #00CED1; /* Цвет заголовка */
-    font-size: 26px; /* Размер шрифта в пунктах */
-    font-family: Georgia, serif; /* Семейство шрифтов */
-    animation: color-change 3s infinite;
-}
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title>Зависимость от игр и тд. как избавиться.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Как бороться с зависимостью!</h1>
+    <p> зависимость это может быть как хорошо так и плохо все зависит от тебя^_^</p>
+    <h2>примеры:</h2>
+    
+             <ul>
+                   <li>Установить лимиты на время, проведенное в Интернете и на использование устройств</li>
+                   <li>Разнообразить свои интересы и занятия, чтобы не ограничиваться только использованием технологий,</li>
+                   <li>Старайтесь быть более осознанными в отношении использования технологий</li>
+                   <li>и задавайте себе вопросы, когда чувствуете, что становитесь слишком зависимыми.</li>
+             </ul>
+     <img src="https://i.pinimg.com/736x/fb/ff/f6/fbfff6a63b4c0931887c8a399234fe07--nature-instagram.jpg" width="250" height="245" alt="Image 1">
+     <img src="https://funik.ru/wp-content/uploads/2018/12/4dd294e6c08c91d025f3.jpg" width="250" height="255" alt="Image 1">
+     <img src="http://img.funtema.ru/09052015/zavisimost/18.jpg" width="385" height="380" alt="Image 1">
+     <img src="https://sun9-51.userapi.com/c305713/u35695369/149050325/x_40a100a8.jpg" width="355" height="350" alt="Image 1"><iframe width="1140" height="641" src="https://www.youtube.com/embed/gZDPtvU3V8U" title="Ты Победишь Интернет Зависимость и Зависимость от Телефона" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <iframe src="https://www.meteoblue.com/en/weather/widget/daily?geoloc=detect&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&uv=1&humidity=0&humidity=1&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 423px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+     <iframe width="1140" height="641" src="https://www.youtube.com/embed/rg6wzB94qXY" title="ПЕСНЯ Капибара Сто-Личный Она-Нас - 10 ЧАСОВ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <iframe width="1140" height="641" src="https://www.youtube.com/embed/dqkZqhKV988" title="10 часов А муха тоже вертолёт (оригинал)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </body>
+</html>
